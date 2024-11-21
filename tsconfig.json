@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "module": "ESNext",
+      "moduleResolution": "node",
+      "target": "ES6",
+      "esModuleInterop": true,
+      // Другие настройки...
+    }
+  }
